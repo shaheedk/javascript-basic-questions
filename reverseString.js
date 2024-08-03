@@ -1,5 +1,5 @@
 // Create a function that takes a string, and returns a string of the words in reverse
-// order concatenated by a single space. (Score 3)
+// order concatenated by a single space. 
 // Note:- The string may contain leading or trailing spaces or multiple spaces between
 // two words. The returned string should only have a single space separating the
 // words. Do not include any extra spaces.
