@@ -7,4 +7,5 @@ function counter(count){
         return;
     }
 }
-counter(1)
+counter(5)
+// Without base cases, a recursive function won't know when to stop, resulting in an infinite recursion (error).
