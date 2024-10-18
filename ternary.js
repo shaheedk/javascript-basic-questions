@@ -5,6 +5,6 @@ let result = (number === 0) ? "Zero" : (number > 0) ? "Number is positive" : " N
 
 console.log(result);
 }
-check(-2)
+check(-2)  
 check(3)
 check(0)
