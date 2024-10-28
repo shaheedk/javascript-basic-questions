@@ -7,7 +7,7 @@
 getSum=(arr)=>{
     let sum=0;
     for(i=0;i<arr.length;i++){
-        if(arr[i]%3==0){
+         if(arr[i]%3==0){
             sum+=arr[i]
         }
     }
