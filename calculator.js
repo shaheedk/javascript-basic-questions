@@ -23,6 +23,8 @@ function calculator(num1,oprator,num2){
                         return "Error: Invalid oprator"
     }
 }
+console.log(calculator(7, "-", 3));
+
 console.log(calculator(2, "+", 2))
 console.log(calculator(2, "*", 2))
 console.log(calculator(4, "/", 2))
