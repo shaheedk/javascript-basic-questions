@@ -10,7 +10,8 @@ function capitalize(arr){
   let oddIndexCap = '';
   for (i=0;i<arr.length;i++){
     if (i%2==0){
-    
+
+        
     evenIndexCap+=arr[i].toUpperCase()
     oddIndexCap+=arr[i].toLowerCase()
     }else{
