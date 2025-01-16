@@ -10,6 +10,7 @@
 
 function getSalary(arr){
     return arr.reduce((total,person)=>total+person.salary,0)
+    
 }
 console.log(getSalary([
     { name: "John", salary: 23000 },
