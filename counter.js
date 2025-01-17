@@ -4,10 +4,9 @@ var createCounter = function(n) {
         return function() {
             if(count===1){
                 count++
-                return n
+                return n 
             }else{
-                return   n=n+1
+                return   n=n+1   
             }
-    
         };
     };
