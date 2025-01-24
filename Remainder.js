@@ -5,13 +5,12 @@
 //   will have a remainder, possibly zero. Return that value.
 
 // Examples
-// remainder(1, 3) ➞ 1
+// 1.remainder(1, 3) ➞ 1
+// 2.remainder(3, 4) ➞ 3
 
-// remainder(3, 4) ➞ 3
+//3.remainder(-9, 45) ➞ -9
 
-// remainder(-9, 45) ➞ -9
-
-// remainder(5, 5) ➞ 0
+// 4.remainder(5, 5) ➞ 0
 
 function remainder(x,y){
     if (x==y){
