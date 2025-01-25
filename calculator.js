@@ -1,9 +1,10 @@
 // Create a function that takes two numbers and a mathematical operator + - / * and will
 // perform a calculation with the given numbers. 
+
 // Examples
-// calculator(2, "+", 2) ➞ 4
-// calculator(2, "*", 2) ➞ 4
-// calculator(4, "/", 2) ➞ 2
+// 1.calculator(2, "+", 2) ➞ 4
+// 2.calculator(2, "*", 2) ➞ 4
+// 3.calculator(4, "/", 2) ➞ 2
 
 function calculator(num1,oprator,num2){
     switch(oprator){
