@@ -1,9 +1,11 @@
 console.log('start')
+// sum the values
 function getDataFromApi1(callback){
 setTimeout(()=>{
     callback(5)
 },1000)
 }
+
 function getDataFromApi3(callback){
     setTimeout(()=>{
         callback(5)
