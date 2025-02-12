@@ -7,9 +7,7 @@
 // Examples
 // 1.remainder(1, 3) ➞ 1
 // 2.remainder(3, 4) ➞ 3
-
 //3.remainder(-9, 45) ➞ -9
-
 // 4.remainder(5, 5) ➞ 0
 
 function remainder(x,y){
