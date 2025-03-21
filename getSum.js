@@ -3,7 +3,6 @@
 // Examples:
 // getSum([1, 3, 8, 5, 9]) ➞ 12
 
-
 getSum=(arr)=>{
     let sum=0;
     for(i=0;i<arr.length;i++){
